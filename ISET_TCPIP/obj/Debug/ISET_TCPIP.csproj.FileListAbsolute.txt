@@ -1,0 +1,10 @@
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\bin\Debug\ISET_TCPIP.exe.config
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\bin\Debug\ISET_TCPIP.exe
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\bin\Debug\ISET_TCPIP.pdb
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\obj\Debug\ISET_TCPIP.csprojResolveAssemblyReference.cache
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\obj\Debug\ISET_TCPIP.EcranPrincipal.resources
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\obj\Debug\ISET_TCPIP.Properties.Resources.resources
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\obj\Debug\ISET_TCPIP.csproj.GenerateResource.Cache
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\obj\Debug\ISET_TCPIP.csproj.CoreCompileInputs.cache
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\obj\Debug\ISET_TCPIP.exe
+D:\isetcours\3e\QI\Alexandre - Programmation\TCPIp\ISET_TCPIP\ISET_TCPIP\obj\Debug\ISET_TCPIP.pdb
